@@ -14,14 +14,14 @@ This application uses [Final Project API](https://lenczes.edumedia.ca/mad9137/fi
 
 <img src="https://github.com/tan00060/MADD-iOS-Final/blob/main/iosPic/AddNewItem.png" widht="200" height="300"/>
 <img src="https://github.com/tan00060/MADD-iOS-Final/blob/main/iosPic/CalanederView.png" widht="200" height="300/>
-<img src="https://github.com/tan00060/MADD-iOS-Final/blob/main/iosPic/itemScreen.png"  widht="200" height="300/>
+<img src="https://github.com/tan00060/MADD-iOS-Final/blob/main/iosPic/itemScreen.png"  widht="200" height="300"/>
 
 ### The user can also delete their items from their list
 
-<img src="https://github.com/tan00060/MADD-iOS-Final/blob/main/iosPic/deleteScreen.png"  widht="200" height="300/>
+<img src="https://github.com/tan00060/MADD-iOS-Final/blob/main/iosPic/deleteScreen.png"  widht="200" height="300"/>
 
 ### Clicking on the list item also gives the user more information.
 
-<img src="https://github.com/tan00060/MADD-iOS-Final/blob/main/iosPic/description%20screen.png"  widht="200" height="300/>
+<img src="https://github.com/tan00060/MADD-iOS-Final/blob/main/iosPic/description%20screen.png"  widht="200" height="300"/>
 
 
