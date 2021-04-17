@@ -25,3 +25,6 @@ This application uses [Final Project API](https://lenczes.edumedia.ca/mad9137/fi
 <img src="https://github.com/tan00060/MADD-iOS-Final/blob/main/iosPic/description%20screen.png"  widht="200" height="300"/>
 
 
+### Contact
+
+If you anyone questions please contact me at [e-mail](mailto:tan00060@algonquinlive.com)
