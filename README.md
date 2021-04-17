@@ -13,7 +13,7 @@ This application uses [Final Project API](https://lenczes.edumedia.ca/mad9137/fi
 ### When the user clicks on the "ADD" buttons it redirect them to a new page that allows the user to input information to add to their list.
 
 <img src="https://github.com/tan00060/MADD-iOS-Final/blob/main/iosPic/AddNewItem.png" widht="200" height="300"/>
-<img src="https://github.com/tan00060/MADD-iOS-Final/blob/main/iosPic/CalanederView.png" widht="200" height="300/>
+<img src="https://github.com/tan00060/MADD-iOS-Final/blob/main/iosPic/CalanederView.png" widht="200" height="300"/>
 <img src="https://github.com/tan00060/MADD-iOS-Final/blob/main/iosPic/itemScreen.png"  widht="200" height="300"/>
 
 ### The user can also delete their items from their list
